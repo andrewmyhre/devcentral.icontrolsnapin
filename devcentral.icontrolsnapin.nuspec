@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>devcentral.icontrolsnapin</id>
+    <title>devcentral.icontrolsnapin</title>
+    <version>1.0.0.0</version>
+    <authors>devcentral</authors>
+    <owners>andrew myhre</owners>
+    <summary>devcentral.icontrolsnapin</summary>
+    <description>devcentral.icontrolsnapin</description>
+    <projectUrl>https://devcentral.f5.com/articles/icontrol-cmdlets#.U0e6nvldXxV</projectUrl>
+    <tags>devcentral.icontrolsnapin admin</tags>
+    <copyright></copyright>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <releaseNotes></releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
